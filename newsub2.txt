@@ -1,0 +1,11 @@
+vless://1e357784-02ab-4d63-8e69-c91618a76314@104.21.24.215:443?encryption=none&security=tls&sni=FANCy-lEaf-321e.aMIRalI123d.wORkERs.dEV&alpn=http%2F1.1&fp=chrome&type=ws&host=fancy-leaf-321e.amirali123d.workers.dev&path=%2FeyJqdW5rIjoiaHpyc3pkanc2UWwxNkNDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇺🇸 US-01
+
+vless://1e357784-02ab-4d63-8e69-c91618a76314@172.67.220.215:443?encryption=none&security=tls&sni=FaNcY-LeaF-321E.AMiRALI123d.worKeRS.Dev&alpn=http%2F1.1&fp=chrome&type=ws&host=fancy-leaf-321e.amirali123d.workers.dev&path=%2FeyJqdW5rIjoiTWZZMVdPU0dLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇬🇧 UK-02
+
+vless://1e357784-02ab-4d63-8e69-c91618a76314@fancy-leaf-321e.amirali123d.workers.dev:2096?encryption=none&security=tls&sni=faNcy-LeAf-321e.aMIraLI123d.worKErs.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=fancy-leaf-321e.amirali123d.workers.dev&path=%2FeyJqdW5rIjoidDJ3NjRPM0NxUngwRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D%3Fed%3D2560#🇺🇸 US-03
+
+vless://1e357784-02ab-4d63-8e69-c91618a76314@www.speedtest.net:2096?encryption=none&security=tls&sni=faNcy-LEaf-321e.aMiRaLi123d.WorKeRs.DeV&alpn=http%2F1.1&fp=chrome&type=ws&host=fancy-leaf-321e.amirali123d.workers.dev&path=%2FeyJqdW5rIjoienRvdmZDMkVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇬🇧 UK-04
+
+vless://1e357784-02ab-4d63-8e69-c91618a76314@104.21.24.215:2096?encryption=none&security=tls&sni=faNCy-LeaF-321E.AMirALI123D.WORkerS.deV&alpn=http%2F1.1&fp=chrome&type=ws&host=fancy-leaf-321e.amirali123d.workers.dev&path=%2FeyJqdW5rIjoieXF0djFaREJTTWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D%3Fed%3D2560#🇺🇸 US-05
+
+vless://1e357784-02ab-4d63-8e69-c91618a76314@172.67.220.215:2096?encryption=none&security=tls&sni=faNcy-leAF-321e.AMiralI123D.WOrKErs.DEV&alpn=http%2F1.1&fp=chrome&type=ws&host=fancy-leaf-321e.amirali123d.workers.dev&path=%2FeyJqdW5rIjoiMTZQYmZzZFZJV1RwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed%3D2560#🇬🇧 UK-06
